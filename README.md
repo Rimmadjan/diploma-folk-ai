@@ -19,7 +19,7 @@
 ```
 diploma-folk-ai/
 ├─ data/
-│ ├─ midi_raw/ ← original OCR‑converted files
+│ ├─ midi_raw/ ←  38 files (v0.1)
 │ └─ midi_clean/ ← cleaned, transposed to C maj / A min
 ├─ notebooks/
 │ ├─ 01_lstm_baseline.ipynb
