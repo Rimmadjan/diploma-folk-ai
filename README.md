@@ -62,6 +62,14 @@ GPU training was done on Google Colab; you can switch the runtime to GPU for t
 
 ---
 
+### Raw score scans (reference only)
+
+High-resolution PDFs of the three original notebooks (Sayat-Nova, Komitas, Armenian dances)
+are available here → [https://drive.google.com/drive/folders/1_yQlWU_3aqM6WKjTAhn-NONWnNFE2q0T]  
+(for academic/research use).
+
+---
+
 ## 5 · Timeline & status
 
 | Milestone                                 | Status | Target date |
