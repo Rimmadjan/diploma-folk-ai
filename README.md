@@ -91,5 +91,14 @@ Dr. Pamela Teubig — Creative Computing & AI, IADE
 **Author**  
 Rimma Dzhanikyan ([LinkedIn](https://www.linkedin.com/in/rimma-djanikyan/))
 
+---
+
+## Docs
+- Dataset card → [`docs/DATASET_CARD.md`](docs/DATASET_CARD.md)
+- Tokenization spec → [`docs/tokenization.md`](docs/tokenization.md)
+- Primers → [`primers/`](primers)
+
+## Data version
+Current dataset: **v0.2** (63 MIDI) in `data/raw1/`. Legacy set (38 MIDI): `data/midi_raw/` (not used).
 
 
